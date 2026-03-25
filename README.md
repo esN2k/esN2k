@@ -5,7 +5,7 @@ An AI-focused Computer Engineering candidate with hands-on Retrieval-Augmented G
 - 🔭 **Current Focus**: Architecting scalable AI workflows, NLP pipelines, and data engineering solutions.
 - ⚡ **Core Tech**: Python, Dart/Flutter, FastAPI, Streamlit, C#/.NET, React, SQL, Power BI, Docker.
 - 💬 **Ask Me About**: LangChain, FAISS, Ollama, Machine Learning, and B2B Technical Operations.
-- 📫 **Reach Out**: [dodikbalaman@gmail.com](mailto:dodikbalaman@gmail.com) | [LinkedIn](https://linkedin.com/in/esn2k) | [Portfolio]((https://esn2k.engineer/)) 
+- 📫 **Reach Out**: [dodikbalaman@gmail.com](mailto:dodikbalaman@gmail.com) | [LinkedIn](https://linkedin.com/in/esn2k) | [Portfolio](https://esn2k.engineer/) 
 
 <br/>
 
