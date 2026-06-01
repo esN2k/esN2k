@@ -1,6 +1,6 @@
 ### I am a Computer Engineering & AI Language Specialist
 
-An AI-focused Computer Engineering candidate with hands-on Retrieval-Augmented Generation (RAG) and LLM experience. I specialize in bridging complex backend architectures with cross-platform interfaces.
+An AI-focused Computer Engineer with hands-on Retrieval-Augmented Generation (RAG) and LLM experience. I specialize in bridging complex backend architectures with cross-platform interfaces.
 
 - 🔭 **Current Focus**: Architecting scalable AI workflows, NLP pipelines, and data engineering solutions.
 - ⚡ **Core Tech**: Python, Dart/Flutter, FastAPI, Streamlit, C#/.NET, React, SQL, Power BI, Docker.
